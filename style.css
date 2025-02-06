@@ -423,5 +423,9 @@ textarea {
     background-color: rgb(222, 222, 17);
  }
 
+@media (max-width:641px){
+    font-size: 12px;
+ }
+
 /* Contact End */
 
